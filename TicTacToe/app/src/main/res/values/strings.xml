@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="grid3_activity_label">3 Grids</string>
+    <string name="grid4_activity_label">4 Grids</string>
+    <string name="grid5_activity_label">5 grids</string>
+    <string name="x_move">Tic-Tac-Toe</string>
+    <string name="empty">-</string>
+    <string name="makeMove"></string>
+</resources>
